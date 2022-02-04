@@ -3,7 +3,7 @@
 
 💻 &nbsp; Postdoctoral Research Associate, University of Rochester, NY <br>
 🧠 &nbsp; Postdoc currently looking for a job in Data Scientist, Clinical Research/Analytics<br>
-👩🏻‍🏫 &nbsp; Busy making the transition into industry by upskilling <br>
+👩🏻‍🏫 &nbsp; Busy making the transition into industry by upskilling (Kaggle, Scikit-Learn, NLP, Machine learning applications) <br>
 🏔 &nbsp; Cycling, Climbing <br>
 
 <br>
