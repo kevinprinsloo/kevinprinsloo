@@ -7,7 +7,6 @@
 🏔 &nbsp; Cycling, Climbing <br>
 <br>
 https://kevinprinsloo.github.io/
-
 <br>
 
 ## 🧰 &nbsp; **Tools I use**: 
