@@ -5,7 +5,7 @@
 🧠 &nbsp; Postdoc currently looking for a job in London - Data Scientist, Clinical Research/Analytics<br>
 📊 &nbsp; Busy making the transition into industry by upskilling (Kaggle, Scikit-Learn, NLP, Machine learning applications) <br>
 🏔 &nbsp; Cycling, Climbing <br>
-💻 &nbsp; https://kevinprinsloo.com
+💻 &nbsp; kevinprinsloo.com
 
 <br>
 
