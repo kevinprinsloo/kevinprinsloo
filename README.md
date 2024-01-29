@@ -22,7 +22,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-origina
   <p align="center">
     <i>You can get in touch at the links below</i><br><br>
     <a href="https://twitter.com/KevinD_P" alt="Twitter logo"><img src="https://github.com/kevinprinsloo/data_icons/blob/master/icons/social_icons/twitter-line-green.svg"></a>
-    <a href="https://www.linkedin.com/in/kevin-prinsloo-phd-ba251823/" alt="Linkedin-logo"><img src="https://github.com/kevinprinsloo/data_icons/blob/master/icons/social_icons/linkedin-box-line.svg"></a>
+    <a href="https://www.linkedin.com/in/kevin-prinsloo-ba251823/" alt="Linkedin-logo"><img src="https://github.com/kevinprinsloo/data_icons/blob/master/icons/social_icons/linkedin-box-line.svg"></a>
     <a href="mailto:kevinvago@gmail.com" alt="Contact me"><img src="https://github.com/kevinprinsloo/data_icons/blob/master/icons/social_icons/mail-line.svg"></a>
   </p>
 
