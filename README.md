@@ -1,9 +1,8 @@
 # Hi there, I'm Kevin 👋
 
 
-💻 &nbsp; Postdoctoral Research Associate, University of Rochester, NY <br>
-🧠 &nbsp; Postdoc currently looking for a job in London - Data Scientist, Clinical Research/Analytics<br>
-📊 &nbsp; Busy making the transition into industry by upskilling (Kaggle, Scikit-Learn, NLP, Machine learning applications) <br>
+💻 &nbsp; GenAI Solution Architect, Sky London <br>
+🧠 &nbsp; PhD in Neuroscience, and PostDoc In Biomedical Engineering<br>
 🏔 &nbsp; Cycling, Climbing <br>
 💻 &nbsp; [kevinprinsloo.com](https://kevinprinsloo.com/)
 
