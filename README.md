@@ -45,12 +45,13 @@
 
 **AI & LLMs**
 
-<img src="https://cdn.simpleicons.org/anthropic/000000" alt="Anthropic Claude" width="60" height="60"/>&nbsp;
-<img src="https://cdn.simpleicons.org/openai/000000" alt="OpenAI" width="60" height="60"/>&nbsp;
-<img src="https://cdn.simpleicons.org/googlegemini/000000" alt="Google Gemini" width="60" height="60"/>&nbsp;
-<img src="https://cdn.simpleicons.org/langchain/000000" alt="LangChain" width="60" height="60"/>&nbsp;
-<img src="https://cdn.simpleicons.org/huggingface/000000" alt="Hugging Face" width="60" height="60"/>&nbsp;
-<img src="https://cdn.simpleicons.org/ollama/000000" alt="Ollama" width="60" height="60"/>&nbsp;
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" alt="Anthropic Claude" width="60" height="60"/>&nbsp;
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" alt="OpenAI" width="60" height="60"/>&nbsp;
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlegemini.svg" alt="Google Gemini" width="60" height="60"/>&nbsp;
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" alt="LangChain" width="60" height="60"/>&nbsp;
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" alt="Hugging Face" width="60" height="60"/>&nbsp;
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg" alt="Ollama" width="60" height="60"/>&nbsp;
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mistral.svg" alt="Mistral" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="Vertex AI" width="60" height="60"/>
 
 <br>
