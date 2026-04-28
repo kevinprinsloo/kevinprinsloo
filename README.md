@@ -4,7 +4,7 @@
 💻 &nbsp; GenAI Solution Architect, Sky London <br>
 🧠 &nbsp; PhD in Neuroscience, and PostDoc In Biomedical Engineering<br>
 🏔 &nbsp; Cycling, Climbing <br>
-💻 &nbsp; [kevinprinsloo.com](https://kevinprinsloo.com/)
+💻 &nbsp; [kevinprinsloo.com](https://kevinprinsloo.org)
 
 <br>
 
